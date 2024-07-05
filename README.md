@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewDRichter
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and c#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me andrewrichter1@hotmail.com
 
